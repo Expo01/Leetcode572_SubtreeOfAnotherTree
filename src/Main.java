@@ -47,4 +47,4 @@ class Solution {
 // concept: search for subroot in root. if L and R of root and subroot ==, return true.
 // this is easy if both L and R of root/subroot are leaves, but need recursion after root //// found, so second method. subroot can be found iteratively
 // after subroot passed, need to find base case. say if both root/sub have left then
-// reecursively call. once null found, start comparing values. same thing with calling
+// reecursively call. once null found, start comparing values. same thing with calling.
